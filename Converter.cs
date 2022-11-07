@@ -32,7 +32,7 @@
                 case "eur":
                     return Amount * Eur;
                 case "pln":
-                    return Amount * Rub;
+                    return Amount * Pln;
                 default:
                     return 0;
             }
